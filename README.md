@@ -4,7 +4,8 @@
 <header>ALURAFLIX</header>
 
 
-<h1>GTA 6</h1>
+<h1>  GTA 6 </h1>
+
 <p>#ROCKSTAR-GAMES</p>
 
 
