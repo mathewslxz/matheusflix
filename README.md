@@ -1,5 +1,7 @@
-<body>
-    
+<head>
+
+</head>
+  <body>  
 
 <header>ALURAFLIX</header>
 
